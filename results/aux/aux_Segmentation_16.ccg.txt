@@ -1,0 +1,9 @@
+Euristica: aux
+Problema: Segmentation_16.ccg
+Passi: 804
+Media nodi fissati: 2.46641791045
+Dev std dei nodi fissati: 8.15476032906
+Max nodi fissati: 283
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 15977
+Soluzione: 119.677804491

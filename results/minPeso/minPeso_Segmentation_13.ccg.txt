@@ -1,0 +1,9 @@
+Euristica: minPeso
+Problema: Segmentation_13.ccg
+Passi: 174
+Media nodi fissati: 15.2126436782
+Dev std dei nodi fissati: 16.3680955759
+Max nodi fissati: 333
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 1195
+Soluzione: 72.5792900542

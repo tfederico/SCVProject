@@ -1,0 +1,9 @@
+Euristica: maxArchiDaFissare
+Problema: Grids_21.ccg
+Passi: 372
+Media nodi fissati: 26.7365591398
+Dev std dei nodi fissati: 35.1216083502
+Max nodi fissati: 311
+Min nodi fissati: 3
+Iterazioni che non fissano nodi: 0
+Soluzione: 272.119904413

@@ -1,0 +1,9 @@
+Euristica: minArchiDaFissare
+Problema: ProteinFolding_11.ccg
+Passi: 948
+Media nodi fissati: 1.58966244726
+Dev std dei nodi fissati: 10.2082420314
+Max nodi fissati: 172
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 1803
+Soluzione: 723.242291461

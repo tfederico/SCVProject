@@ -1,0 +1,24 @@
+Media passi: 728.6
+Media fissati: 8.9800927173
+Media max nodi fissati: 601.35
+Media min nodi fissati: 0.0
+Media nodi no fissati: 5384.8
+Media soluzioni tot: 358.388124037
+Dev std passi: 703.323211618
+Dev std fissati: 1.32700128813
+Dev std max nodi fissati: 104.830470284
+Dev std min nodi fissati: 0.0
+Dev std nodi no fissati: 2579.21836222
+Dev std soluzioni tot: 320.102617451
+Max passi: 3400
+Max fissati: 12.3660130719
+Max max nodi fissati: 644
+Max min nodi fissati: 0
+Max nodi no fissati: 10189
+Max soluzioni tot: 1158.0692196
+Min passi: 221
+Min fissati: 6.98901098901
+Min max nodi fissati: 312
+Min min nodi fissati: 0
+Min nodi no fissati: 199
+Min soluzioni tot: 60.3492749208

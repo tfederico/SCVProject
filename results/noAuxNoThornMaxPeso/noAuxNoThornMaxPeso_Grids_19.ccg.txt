@@ -1,0 +1,9 @@
+Euristica: noAuxNoThornMaxPeso
+Problema: Grids_19.ccg
+Passi: 253
+Media nodi fissati: 39.7826086957
+Dev std dei nodi fissati: 47.9625613002
+Max nodi fissati: 651
+Min nodi fissati: 1
+Iterazioni che non fissano nodi: 0
+Soluzione: 56.1919906886

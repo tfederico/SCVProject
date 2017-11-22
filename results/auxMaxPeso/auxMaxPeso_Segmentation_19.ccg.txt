@@ -1,0 +1,9 @@
+Euristica: auxMaxPeso
+Problema: Segmentation_19.ccg
+Passi: 385
+Media nodi fissati: 6.25974025974
+Dev std dei nodi fissati: 7.61577753516
+Max nodi fissati: 613
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 2305
+Soluzione: 79.5767422558

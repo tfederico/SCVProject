@@ -1,0 +1,9 @@
+Euristica: thornMinPeso
+Problema: ProteinFolding_11.ccg
+Passi: 221
+Media nodi fissati: 10.1085972851
+Dev std dei nodi fissati: 33.4771748853
+Max nodi fissati: 312
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 377
+Soluzione: 786.953109865
