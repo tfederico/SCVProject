@@ -1,0 +1,9 @@
+Euristica: aux
+Problema: ProteinFolding_11.ccg
+Passi: 578
+Media nodi fissati: 3.24740484429
+Dev std dei nodi fissati: 8.65182152824
+Max nodi fissati: 181
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 849
+Soluzione: 786.239384575

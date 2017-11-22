@@ -1,0 +1,9 @@
+Euristica: maxArchiDaFissare
+Problema: Segmentation_13.ccg
+Passi: 80
+Media nodi fissati: 34.2625
+Dev std dei nodi fissati: 30.5478083297
+Max nodi fissati: 311
+Min nodi fissati: 3
+Iterazioni che non fissano nodi: 0
+Soluzione: 31.1307885988

@@ -1,0 +1,9 @@
+Euristica: maxPeso
+Problema: ProteinFolding_11.ccg
+Passi: 63
+Media nodi fissati: 37.9682539683
+Dev std dei nodi fissati: 46.3441125707
+Max nodi fissati: 214
+Min nodi fissati: 3
+Iterazioni che non fissano nodi: 0
+Soluzione: 1092.3970583

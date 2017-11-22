@@ -1,0 +1,9 @@
+Euristica: thorn
+Problema: Segmentation_12.ccg
+Passi: 222
+Media nodi fissati: 12.0990990991
+Dev std dei nodi fissati: 19.2156819192
+Max nodi fissati: 646
+Min nodi fissati: 0
+Iterazioni che non fissano nodi: 3302
+Soluzione: 113.098968139
